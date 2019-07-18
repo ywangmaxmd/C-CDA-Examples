@@ -2,6 +2,7 @@
 <?xml-stylesheet type="text/xsl" href="CDA.xsl"?>
 <!--
  Title:        Continuity of Care Document (CCD)
+
  
  This file was based on MU testing file named: 170.315_b1_toc_gold_sample2_v2.xml
  All component/section wihtin structuredBody have been emptied to provide a template for testing specific entries
