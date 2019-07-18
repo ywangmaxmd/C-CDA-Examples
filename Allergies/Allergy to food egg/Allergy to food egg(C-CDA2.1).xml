@@ -7,6 +7,7 @@
 	<text>
 		<table>
 			<thead>
+
 				<tr>
 					<th>Allergen</th>
 					<th>Reaction</th>
@@ -15,14 +16,7 @@
 					<th>Start Date</th>
 				</tr>
 			</thead>
-			<tbody>
-				<tr ID="allergy5">
-					<td ID="allergy5allergen">Egg</td>
-					<td ID="allergy5reaction">Hives</td>
-					<td ID="allergy5reactionseverity">Moderate</td>
-					<td>Jan 4 2014</td>
-					<td>1998</td>
-				</tr>
+			
 			</tbody>
 		</table>
 	</text>
